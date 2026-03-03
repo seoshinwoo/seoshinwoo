@@ -1,6 +1,7 @@
 # 🎪 안녕하세요! 재미있는 것들을 만들고 싶은 개발자입니다.
 
-C#과 .NET 생태계를 기반으로 **웹(Blazor/ASP.NET Core)**부터 **모바일(MAUI)**, 그리고 **하드웨어 제어**까지 폭넓은 영역을 탐구하고 있습니다. 단순히 코드를 짜는 것을 넘어, 사람들에게 대화의 소재가 될 수 있는 가치 있는 소프트웨어를 만드는 것이 목표입니다.
+C#과 .NET 생태계를 기반으로 **웹(Blazor/ASP.NET Core**부터 **모바일(MAUI)** 개발을 진행한 경험이 있습니다.. 
+단순히 코드를 짜는 것을 넘어, 사람들에게 즐거움을 줄 수 있는 가치 있는 소프트웨어를 만드는 것이 목표입니다.
 
 ---
 
@@ -28,7 +29,6 @@ C#과 .NET 생태계를 기반으로 **웹(Blazor/ASP.NET Core)**부터 **모바
 
 * **Web Development**: Blazor WebAssembly와 SkiaSharp을 활용한 드로잉 애플리케이션 및 PDF 오버레이 시스템 구축 경험이 있습니다.
 * **Mobile & Hardware**: .NET MAUI를 이용해 iOS/Android 크로스 플랫폼 앱을 개발했으며, Bluetooth를 활용한 바코드 프린터 제어 및 실시간 데이터 통신 로직을 구현했습니다.
-* **Backend & Server**: ASP.NET Core의 DI(Dependency Injection) 수명 주기와 JWT 인증 체계를 깊이 이해하고 있으며, 최근에는 고성능 게임 서버 프로그래밍(Non-blocking Socket 등)을 학습 중입니다.
 
 ---
 
@@ -41,9 +41,4 @@ C#과 .NET 생태계를 기반으로 **웹(Blazor/ASP.NET Core)**부터 **모바
 
 ### 📫 Contact Me
 
-* **Email**: `your-email@example.com` * **LinkedIn**: [Your Profile Link] ---
-
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=본인의_깃허브_ID&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인의_깃허브_ID&layout=compact&theme=transparent)
+* **Email**: `seoshinwoo99@gmail.com`
