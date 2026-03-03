@@ -13,7 +13,7 @@ C#과 .NET 생태계를 기반으로 **웹(Blazor/ASP.NET Core)**부터 **모바
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%20MAUI-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20MAUI-E11E49?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 **Graphics & Database & Infrastructure**
