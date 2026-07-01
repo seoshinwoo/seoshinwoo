@@ -31,11 +31,7 @@ C#과 .NET 생태계를 기반으로 웹 애플리케이션부터 모바일 앱/
 
 <br>
 
-<b><font color="#8A8A8A">Name :</font> <font color="#1E8BFF">Pol</font><font color="#FFC21A">Rob</font></b>
-
-<b><font color="#8A8A8A">Category :</font> Mobile Game</b>
-
-<b><font color="#8A8A8A">Description :</font> 경찰과 도둑이 펼치는 추격전</b>
+<img src="PolRob_Info.svg" alt="Name: PolRob, Category: Mobile Game, Description: 경찰과 도둑이 펼치는 추격전" width="38%" />
 
 [**→ PolRob 자세히 보기**](https://github.com/seoshinwoo/polrob)
 
@@ -47,11 +43,7 @@ C#과 .NET 생태계를 기반으로 웹 애플리케이션부터 모바일 앱/
 
 <br>
 
-<b><font color="#8A8A8A">Name :</font> Canva<font color="#A7D80D">Sync</font></b>
-
-<b><font color="#8A8A8A">Category :</font> Web Application</b>
-
-<b><font color="#8A8A8A">Description :</font> 필기 실시간 동기화 애플리케이션</b>
+<img src="CanvaSync_Info.svg" alt="Name: CanvaSync, Category: Web Application, Description: 필기 실시간 동기화 애플리케이션" width="38%" />
 
 [**→ CanvaSync 자세히 보기**](https://github.com/seoshinwoo/canvasync)
 
