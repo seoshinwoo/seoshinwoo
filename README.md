@@ -41,8 +41,6 @@ C#과 .NET 생태계를 기반으로 웹 애플리케이션부터 모바일 앱/
 
 [**→ PolRob 자세히 보기**](https://github.com/seoshinwoo/polrob)
 
-<br clear="left" />
-
 ---
 
 <img align="left" src="CanvaSync_Thumbnail.png" alt="CanvaSync thumbnail" width="52%" />
@@ -58,8 +56,6 @@ C#과 .NET 생태계를 기반으로 웹 애플리케이션부터 모바일 앱/
 **Description : 강의자가 PDF(강의 자료) 위에 드로잉을 하면 수강자들 PDF에도 같은 드로잉이 실시간으로 그려집니다. PDF 파일을 따로 다운받아 관리할 필요도 없고 필기 하느라 수업 흐름을 놓칠 일이 없습니다. 나만의 드로잉도 추가하고 완성된 PDF를 다운받으세요.**
 
 [**→ CanvaSync 자세히 보기**](https://github.com/seoshinwoo/canvasync)
-
-<br clear="left" />
 
 ---
 
