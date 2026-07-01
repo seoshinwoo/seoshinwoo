@@ -27,39 +27,35 @@ C#과 .NET 생태계를 기반으로 웹 애플리케이션부터 모바일 앱/
 
 ## 🚀 Projects
 
-<table>
-  <tr>
-    <td width="52%" valign="middle">
-      <img src="PolRob_Thumbnail.png" alt="PolRob thumbnail" width="100%" />
-    </td>
-    <td width="48%" valign="middle">
-      <p><b>Name : PolRob</b></p>
-      <p><b>Category : Mobile Game</b></p>
-      <p><b>Description : 경찰과 도둑이 펼치는 추격전</b></p>
-      <p>
-        <a href="https://github.com/seoshinwoo/polrob"><b>→ PolRob 자세히 보기</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<img align="left" src="PolRob_Thumbnail.png" alt="PolRob thumbnail" width="52%" />
+
+<br>
+
+**Name : PolRob**
+
+**Category : Mobile Game**
+
+**Description : 경찰과 도둑이 펼치는 추격전**
+
+[**→ PolRob 자세히 보기**](https://github.com/seoshinwoo/polrob)
+
+<br clear="left" />
 
 ---
 
-<table>
-  <tr>
-    <td width="52%" valign="middle">
-      <img src="CanvaSync_Thumbnail.png" alt="CanvaSync thumbnail" width="100%" />
-    </td>
-    <td width="48%" valign="middle">
-      <p><b>Name : CanvaSync</b></p>
-      <p><b>Category : Web Application</b></p>
-      <p><b>Description : 필기 실시간 동기화 애플리케이션</b></p>
-      <p>
-        <a href="https://github.com/seoshinwoo/canvasync"><b>→ CanvaSync 자세히 보기</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<img align="left" src="CanvaSync_Thumbnail.png" alt="CanvaSync thumbnail" width="52%" />
+
+<br>
+
+**Name : CanvaSync**
+
+**Category : Web Application**
+
+**Description : 필기 실시간 동기화 애플리케이션**
+
+[**→ CanvaSync 자세히 보기**](https://github.com/seoshinwoo/canvasync)
+
+<br clear="left" />
 
 ---
 
