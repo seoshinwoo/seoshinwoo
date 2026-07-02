@@ -33,13 +33,13 @@ C#과 .NET 생태계를 기반으로 웹 애플리케이션부터 모바일 앱/
 
 **Name : PolRob**
 
-***Category : Mobile Game***
+Category : Mobile Game
 
-***Tagline : 경찰과 도둑이 펼치는 추격전***
+Tagline : 경찰과 도둑이 펼치는 추격전
 
-***Description : 경찰들은 시간 내에 도둑을 전부 체포해야 하고 도둑들은 열심히 도망다니고, 잡힌 동료를 탈옥시키며 시간이 끝날 때까지 버텨야합니다. 커스텀 매칭을 통해 친구들과 함께 즐겨보세요. 혼자일 땐 랜덤 매칭을 통해 다른 사람들과 플레이 할 수 있습니다.***
+Description : 경찰들은 시간 내에 도둑을 전부 체포해야 하고 도둑들은 열심히 도망다니고, 잡힌 동료를 탈옥시키며 시간이 끝날 때까지 버텨야합니다. 커스텀 매칭을 통해 친구들과 함께 즐겨보세요. 혼자일 땐 랜덤 매칭을 통해 다른 사람들과 플레이 할 수 있습니다.
 
-[***→ PolRob 자세히 보기***](https://github.com/seoshinwoo/polrob)
+[→ PolRob 자세히 보기](https://github.com/seoshinwoo/polrob)
 
 ---
 
@@ -49,13 +49,13 @@ C#과 .NET 생태계를 기반으로 웹 애플리케이션부터 모바일 앱/
 
 **Name : CanvaSync**
 
-***Category : Web Application***
+Category : Web Application
 
-***Tagline : 필기 실시간 동기화 애플리케이션***
+Tagline : 필기 실시간 동기화 애플리케이션
 
-***Description : 강의자가 PDF(강의 자료) 위에 드로잉을 하면 수강자들 PDF에도 같은 드로잉이 실시간으로 그려집니다. PDF 파일을 따로 다운받아 관리할 필요도 없고 필기 하느라 수업 흐름을 놓칠 일이 없습니다. 나만의 드로잉도 추가하고 완성된 PDF를 다운받으세요.***
+Description : 강의자가 PDF(강의 자료) 위에 드로잉을 하면 수강자들 PDF에도 같은 드로잉이 실시간으로 그려집니다. PDF 파일을 따로 다운받아 관리할 필요도 없고 필기 하느라 수업 흐름을 놓칠 일이 없습니다. 나만의 드로잉도 추가하고 완성된 PDF를 다운받으세요.
 
-[***→ CanvaSync 자세히 보기***](https://github.com/seoshinwoo/canvasync)
+[→ CanvaSync 자세히 보기](https://github.com/seoshinwoo/canvasync)
 
 ---
 
