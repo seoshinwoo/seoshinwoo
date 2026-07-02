@@ -27,35 +27,33 @@ C#과 .NET 생태계를 기반으로 웹 애플리케이션부터 모바일 앱/
 
 ## 🚀 Projects
 
-<img align="left" src="PolRob_Thumbnail.png" alt="PolRob thumbnail" width="52%" />
+<p>
+  <img align="left" src="PolRob_Thumbnail.png" alt="PolRob thumbnail" width="52%" />
+  <br>
+  <strong>Name : PolRob</strong><br>
+  <strong>Category : Mobile Game</strong><br>
+  <strong>Tagline : 경찰과 도둑이 펼치는 추격전</strong><br>
+  <strong>Description : 경찰들은 제한 시간 안에 도둑을 모두 체포해야 하고, 도둑들은 도망치거나 잡힌 동료를 탈옥시키며 끝까지 버텨야 합니다. 커스텀 매칭으로 친구들과 함께 즐기고, 혼자일 때는 랜덤 매칭으로 다른 사람들과 플레이할 수 있습니다.</strong><br>
+  <br>
+  <a href="https://github.com/seoshinwoo/polrob"><strong>→ PolRob 자세히 보기</strong></a>
+</p>
 
-<br>
-
-**Name : PolRob**
-
-**Category : Mobile Game**
-
-**Tagline : 경찰과 도둑이 펼치는 추격전**
-
-**Description : 경찰들은 시간 내에 도둑을 전부 체포해야 하고 도둑들은 열심히 도망다니고, 잡힌 동료를 탈옥시키며 시간이 끝날 때까지 버텨야합니다. 커스텀 매칭을 통해 친구들과 함께 즐겨보세요. 혼자일 땐 랜덤 매칭을 통해 다른 사람들과 플레이 할 수 있습니다.**
-
-[**→ PolRob 자세히 보기**](https://github.com/seoshinwoo/polrob)
+<br clear="left" />
 
 ---
 
-<img align="left" src="CanvaSync_Thumbnail.png" alt="CanvaSync thumbnail" width="52%" />
+<p>
+  <img align="left" src="CanvaSync_Thumbnail.png" alt="CanvaSync thumbnail" width="52%" />
+  <br>
+  <strong>Name : CanvaSync</strong><br>
+  <strong>Category : Web Application</strong><br>
+  <strong>Tagline : 필기 실시간 동기화 애플리케이션</strong><br>
+  <strong>Description : 강의자가 PDF 위에 드로잉하면 수강자 PDF에도 같은 드로잉이 실시간으로 그려집니다. 파일을 따로 내려받아 관리할 필요가 없고, 수업 흐름을 놓치지 않으며 나만의 드로잉을 추가한 완성본 PDF도 내려받을 수 있습니다.</strong><br>
+  <br>
+  <a href="https://github.com/seoshinwoo/canvasync"><strong>→ CanvaSync 자세히 보기</strong></a>
+</p>
 
-<br>
-
-**Name : CanvaSync**
-
-**Category : Web Application**
-
-**Tagline : 필기 실시간 동기화 애플리케이션**
-
-**Description : 강의자가 PDF(강의 자료) 위에 드로잉을 하면 수강자들 PDF에도 같은 드로잉이 실시간으로 그려집니다. PDF 파일을 따로 다운받아 관리할 필요도 없고 필기 하느라 수업 흐름을 놓칠 일이 없습니다. 나만의 드로잉도 추가하고 완성된 PDF를 다운받으세요.**
-
-[**→ CanvaSync 자세히 보기**](https://github.com/seoshinwoo/canvasync)
+<br clear="left" />
 
 ---
 
